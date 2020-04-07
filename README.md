@@ -1,2 +1,2 @@
 # FindRanger
-Giá xe Ford Ranger
+[Giá xe Ford Ranger](https://findcar.vip/ford-ranger)
